@@ -6,5 +6,6 @@ int main(){
  int a=-1;
  positiveInt pi= myabs(a);
  printf("Valor abosluto de %d: %d\n", a, pi);
+ f4(2);
  exit(0);
 } 
