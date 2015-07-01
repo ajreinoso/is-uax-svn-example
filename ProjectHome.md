@@ -1,0 +1,1 @@
+Example project to be used in the IS subject at UAX
